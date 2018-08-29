@@ -1,0 +1,16 @@
+{
+  "name": "carbon5atTheMovies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.9.1",
+    "underscore": "^1.9.1"
+  }
+}
